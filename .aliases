@@ -1,4 +1,3 @@
 #! /usr/bin/bash
-
-alias ls="ls -a | ccze -A"
 alias lsla="ls -la | ccze -A"
+alias list="ls -a | ccze -A"
