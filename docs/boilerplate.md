@@ -10,7 +10,6 @@ const model = 0
 export var click = model => model + 1
 
 export var doubleClick = ( model, data, actions ) => {
-  return actions.click( actions.click( model ) )
 }
 
 const action = { click, doubleClick }
