@@ -12,6 +12,7 @@ micro-frontend architecture
 
 	- component boilerplate repo
 	- application shell repo
+		- client-side include patterns
 	- global shared libraries repo
 		- stateful events integration
 		- application framework
