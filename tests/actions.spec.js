@@ -3,6 +3,9 @@
  *  Module Declarations
  */
 
+import * from 'jasmine'
+import * from 'mocha'
+
 import { 
 	click, 
 	doubleClick 

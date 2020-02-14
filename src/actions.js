@@ -7,6 +7,7 @@ interface ClickModel {
 	counter: number;
 }
 
+
 /*
  *  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  *  Action Function Declarations  
@@ -14,6 +15,7 @@ interface ClickModel {
 
 /**
  * Cache a function
+ * 
  * @param  {Function} fn
  * @param  {Function} resolver
  * @return {Function}
