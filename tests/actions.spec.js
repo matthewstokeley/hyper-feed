@@ -8,7 +8,10 @@ import {
 	doubleClick 
 } from './../src/actions'
 
-
+/*
+ *  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ *  Test Expressions
+ */
 it ( 'should increase the model property counter by one', () => {
 	
 	const mockedModelObj: Obj = { counter: 1 }
