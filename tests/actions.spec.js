@@ -3,12 +3,16 @@
  *  Module Declarations
  */
 
-import { click, doubleClick } from './../src/actions'
+import { 
+	click, 
+	doubleClick 
+} from './../src/actions'
 
-const mockedModelObj: Obj = { counter: 1 }
 
 it ( 'should increase the model property counter by one', () => {
+	
+	const mockedModelObj: Obj = { counter: 1 }
 
-	click( mockedModelObject )
+	expect( click( mockedModelObject ) ).to.be.equal.to( 2 )
 
 } )
