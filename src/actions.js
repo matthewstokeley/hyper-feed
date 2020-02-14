@@ -1,6 +1,6 @@
 /*
  *  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
- *  Action Type Declarations  
+ *  Type Declarations  
  */
 
 interface ClickModel {
@@ -10,7 +10,7 @@ interface ClickModel {
 
 /*
  *  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
- *  Action Function Declarations  
+ *  Function Declarations  
  */
 
 /**
